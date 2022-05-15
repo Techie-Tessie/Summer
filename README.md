@@ -12,12 +12,16 @@ The Techie Tessie team will then decide who made the best contribution.
 
 The winner will be announced on a livestream held on the 2nd of July, which will be recorded and posted as our 100th video!
 
-To ensure your eligibility to win, make sure you:
+## To ensure your eligibility to win, make sure you:
 
 -Subscribe to our [YouTube channel](https://www.youtube.com/c/TechieTessie)
 
 -Follow us on [LinkedIn](https://www.linkedin.com/company/techie-tessie), [Twitter](https://twitter.com/techie_tessie), and [Instagram](https://www.instagram.com/techie_tessie/)
 
 (You may be required to email screenshots to us in order to prove YouTube subscription and that you follow our socials)
+
+## Unsure how to contribute to this GitHub repository?
+Click [here](https://www.youtube.com/watch?v=8PhlKST2x1s) if you are using GitHub Desktop, and click [here](https://www.youtube.com/watch?v=y0syiLiYjqU) if you are using Git Bash.
+
 
 Keep the Code Coming!
