@@ -17,3 +17,5 @@ To ensure your eligibility to win, make sure you:
 -Follow us on [LinkedIn](https://www.linkedin.com/company/techie-tessie), [Twitter](https://twitter.com/techie_tessie), and [Instagram](https://www.instagram.com/techie_tessie/)
 
 (You may be required to email screenshots to us in order to prove YouTube subscription and that you follow our socials)
+
+Keep the Code Coming!
