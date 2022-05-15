@@ -6,7 +6,7 @@ We are offering you the chance to win Techie Tessie merchandise by showing us yo
 
 From 16th May - 24th July you have the opportunity to contribute features and pages to this website.
 
-The Techie Tessie team will then decide upon who made the best contribution.
+The Techie Tessie team will then decide who made the best contribution.
 
 The winner will be announced on a livestream held on the 2nd of July, which will be recorded and posted as our 100th video!
 
