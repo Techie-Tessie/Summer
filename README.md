@@ -20,7 +20,7 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 
 (You may be required to email screenshots to us in order to prove YouTube subscription and that you follow our socials)
 
-## Rules for successful a PR:
+## Rules for successful PR:
 
 * Make sure you are raising a valid PR.
 * Make sure that your contribution is not plagiarised(Plagiarised contents are discarded and are not eligible for merch).
