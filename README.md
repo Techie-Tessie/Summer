@@ -20,6 +20,16 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 
 (You may be required to email screenshots to us in order to prove YouTube subscription and that you follow our socials)
 
+## Rules for successful a PR:
+
+* Make sure you are raising a valid PR.
+* Make sure that your contribution is not plagiarised(Plagiarised contents are discarded and are not eligible for merch).
+* Make sure you create a new branch for your contribution. 
+* Make sure you have hosted or deployed your site using github pages or netlify. 
+* Make sure there is no conflicts in your PR.
+* Make sure you have attached live link, theme of the project, tech used, preview of the site etc. in the PR description.
+* Make sure your PR contains a readme file which includes all the necessary details of the project.
+
 ## Unsure how to contribute to this GitHub repository?
 Click [here](https://www.youtube.com/watch?v=8PhlKST2x1s) if you are using GitHub Desktop, and click [here](https://www.youtube.com/watch?v=y0syiLiYjqU) if you are using Git Bash.
 
