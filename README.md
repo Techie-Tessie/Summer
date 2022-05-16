@@ -1,4 +1,7 @@
 # Summer
+<p align="center">
+<img width="450px" style="border-style:solid" src="https://user-images.githubusercontent.com/72180173/168555816-79ec2e0c-e09e-426e-a824-f102133efef1.png" alt="Summer coding challenge" />
+ </p>
 
 ## A summer-themed website created entirely by the Techie Tessie community!
 
