@@ -36,4 +36,6 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 ## Unsure how to contribute to this GitHub repository?
 Click [here](https://www.youtube.com/watch?v=8PhlKST2x1s) if you are using GitHub Desktop, and click [here](https://www.youtube.com/watch?v=y0syiLiYjqU) if you are using Git Bash.
 
+* Don't forget to give a ⭐ to this repository.
+
 Keep the Code Coming!
