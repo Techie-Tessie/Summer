@@ -26,7 +26,7 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 ## Rules for successful PR:
 
 * Make sure you are raising a valid PR.
-* Make sure that your contribution is not plagiarised(Plagiarised contents are discarded and are not eligible for merch).
+* Make sure that your contribution is not plagiarised (plagiarised contents are discarded and are not eligible for merch).
 * Make sure you create a new branch for your contribution. 
 * Make sure you have hosted or deployed your site using github pages or netlify. 
 * Make sure there is no conflicts in your PR.
