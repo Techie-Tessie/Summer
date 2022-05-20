@@ -51,7 +51,7 @@ Keep the Code Coming!
 
 
 
-<h1 align=center> Project Admin ❤️ </h1>
+<h1 align=center> Project Admin💜 </h1>
 <p align="center">
 
 <table align="center">
