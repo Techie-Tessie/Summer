@@ -21,7 +21,9 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 
 * Follow us on [LinkedIn](https://www.linkedin.com/company/techie-tessie), [Twitter](https://twitter.com/techie_tessie), and [Instagram](https://www.instagram.com/techie_tessie/)
 
-(You may be required to email screenshots to us in order to prove YouTube subscription and that you follow our socials)
+> **Note**
+> \
+> You may be required to email screenshots to us in order to prove YouTube subscription and that you follow our socials
 
 ## Rules for successful PR:
 
