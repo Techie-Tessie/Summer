@@ -34,6 +34,10 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 * Make sure your PR contains a readme file which includes all the necessary details of the project.
 
 ## Unsure how to contribute to this GitHub repository?
+Create a seperate folder for yourself to ensure no merge conflicts. Like this but with your own name:
+
+<img width="200px" style="border-style:solid" src="https://github.com/Tess314/Formulae/blob/main/folder.PNG" alt="folder" />
+
 Click [here](https://www.youtube.com/watch?v=8PhlKST2x1s) if you are using GitHub Desktop, and click [here](https://www.youtube.com/watch?v=y0syiLiYjqU) if you are using Git Bash.
 
 * Don't forget to give a ⭐ to this repository.
