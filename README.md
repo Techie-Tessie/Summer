@@ -18,8 +18,8 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 ## Unsure how to contribute to this GitHub repository? Here is the folder structure:
 
 <ul>
-  <li>Folder consists two folder (assets and script) and two files (index.html and readme.md) </li>
-  <li>In the assets folder, there are two folders, css and media. css folder contains only CSS files & media folder contain only media files of the main website.</li>
+  <li>Consists two folders (assets and script) and two files (index.html and readme.md) </li>
+  <li>In the assets folder, there are two folders, css and media. The css folder contains only CSS files & the media folder contains only media files of the main website.</li>
   <li>In the script folder, all the script files will be there.</li>
 </ul>
 
