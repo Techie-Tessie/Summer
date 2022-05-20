@@ -15,7 +15,7 @@ The Techie Tessie team will then decide who made the best contribution.
 
 The winner will be announced on a livestream held on the 2nd of July, which will be recorded and posted as our 100th video!
 
-## To ensure your eligibility to win, make sure you:
+## To ensure your eligibility to win:
 
 * Subscribe to our [YouTube channel](https://www.youtube.com/c/TechieTessie)
 
