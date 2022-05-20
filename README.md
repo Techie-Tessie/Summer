@@ -41,7 +41,7 @@ Make a folder for yourself to ensure no merge conflicts. Like this but with your
 
 Inside your folder contain your code files and a README file describing your contribution with any relevant screenshots.
 
-Feel free to use the index.html file and css file provided as a starting point.
+Feel free to use the files provided (index.html and style.css) as a starting point.
 
 Click [here](https://www.youtube.com/watch?v=8PhlKST2x1s) if you are using GitHub Desktop, and click [here](https://www.youtube.com/watch?v=y0syiLiYjqU) if you are using Git Bash.
 
