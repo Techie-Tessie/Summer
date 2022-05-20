@@ -15,26 +15,6 @@ The Techie Tessie team will then decide who made the best contribution.
 
 The winner will be announced on a livestream held on the 2nd of July, which will be recorded and posted as our 100th video!
 
-## Unsure how to contribute to this GitHub repository? Here is the folder structure:
-
-<ul>
-  <li>Consists two folders (assets and script) and two files (index.html and readme.md) </li>
-  <li>In the assets folder, there are two folders, css and media. The css folder contains only CSS files & the media folder contains only media files of the main website.</li>
-  <li>In the script folder, all the script files will be there.</li>
-</ul>
-
-
-```
-├───assets                   
-│   └─── media                 #All Images and Media
-|   └─── css                   #All CSS files
-├───script                     
-│   └─── js files              #All Script Files    
-├───readme.md                  #Readme.md File
-├───index.html                 #Home Page
-```
-
-
 ## To ensure your eligibility to win, make sure you:
 
 * Subscribe to our [YouTube channel](https://www.youtube.com/c/TechieTessie)
@@ -53,6 +33,13 @@ The winner will be announced on a livestream held on the 2nd of July, which will
 * Make sure you have attached live link, theme of the project, tech used, preview of the site etc. in the PR description.
 * Make sure your PR contains a readme file which includes all the necessary details of the project.
 
+## Unsure how to contribute to this GitHub repository?
+
+Make a folder for yourself to ensure no merge conflicts. Like this but with your own name:
+
+<img width="200px" style="border-style:solid" src="https://github.com/Tess314/Formulae/blob/main/folder.PNG" alt="folder" />
+
+Inside your folder contain your code files and a README file describing your contribution with any relevant screenshots.
 
 Click [here](https://www.youtube.com/watch?v=8PhlKST2x1s) if you are using GitHub Desktop, and click [here](https://www.youtube.com/watch?v=y0syiLiYjqU) if you are using Git Bash.
 
