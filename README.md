@@ -1,6 +1,6 @@
 > **Warning**
 > \
-> This contest is now closed. Submissions are currently in review. Winner will be announced on YouTube - 2nd July!
+> This contest is now closed. Winner will be announced on YouTube - 2nd July!
 
 # Summer
 <p align="center">
